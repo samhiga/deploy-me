@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-me/static/css/main.c2cab247.css",
+    "main.js": "/deploy-me/static/js/main.c0f6b392.js",
+    "index.html": "/deploy-me/index.html",
+    "main.c2cab247.css.map": "/deploy-me/static/css/main.c2cab247.css.map",
+    "main.c0f6b392.js.map": "/deploy-me/static/js/main.c0f6b392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.c0f6b392.js"
+  ]
+}
